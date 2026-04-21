@@ -50,7 +50,6 @@ gen-ai-webscraping-analysis/
 
 ### 📊 Sample Data Output
 <p align="center">
-  <img src="sample_data.png" width="80%">
   <img width="1616" height="872" alt="sample_data" src="https://github.com/user-attachments/assets/6b56b14d-9f7e-4ad9-b2f9-04ba9e81ebcd" />
 
 </p>
@@ -59,7 +58,6 @@ gen-ai-webscraping-analysis/
 
 ### 🤖 AI-Generated Insights
 <p align="center">
-  <img src="insights.png" width="80%">
   <img width="1616" height="872" alt="insights" src="https://github.com/user-attachments/assets/6e406c67-8a54-4822-94f1-46d47839c39e" />
 
 </p>
