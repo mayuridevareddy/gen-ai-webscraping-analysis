@@ -1,11 +1,16 @@
-# 🚀✨ Gen AI Web Scraping Analysis
 
-<h1 align="center">🚀 Gen AI Web Scraping Analysis</h1>
+
+<h1 align="center">🚀✨ Gen AI Web Scraping Analysis</h1>
 <p align="center"><b>Turning Raw Data into Actionable Insights</b></p>
 
-
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Complete-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-orange?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-HTTP%20Library-lightgrey?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EDA-blueviolet?style=for-the-badge)
+![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+![Made By](https://img.shields.io/badge/Made%20By-Mayuri-orange?style=for-the-badge)
 
 ---
 
