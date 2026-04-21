@@ -134,4 +134,4 @@ Devareddy Mayuri
 📊 Aspiring Data Analyst
 🐍 Python | SQL | Power BI
 
-<p align="center"> ⭐ If you like this project, give it a star! </p> ```
+<p align="center">⭐ If you like this project, give it a star!</p>
