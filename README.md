@@ -1,9 +1,11 @@
 # 🚀✨ Gen AI Web Scraping Analysis
 
-<p align="center">
-  <b>🔍 Turning Raw Web Data into Actionable Insights</b><br>
-  <i>Web Scraping + Data Analysis + AI-style Thinking</i>
-</p>
+<h1 align="center">🚀 Gen AI Web Scraping Analysis</h1>
+<p align="center"><b>Turning Raw Data into Actionable Insights</b></p>
+
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen?style=for-the-badge)
 
 ---
 
@@ -111,7 +113,7 @@ gen-ai-webscraping-analysis/
 pip install -r requirements.txt
 
 # Run analysis
-python analysis.py
+py -3.12 analysis.py
 
 
 🏆 🎓 Key Learnings
