@@ -1,0 +1,34 @@
+📊 AI Analysis of Your Dataset
+
+✅ 1. Key Insights
+📚 Price Range: Books are priced between ~₹17 to ₹54, showing a mix of low and high-priced items.
+⭐ Ratings Distribution: Most books have ratings between 1 to 4, with fewer highly rated (5-star) books.
+📦 Availability: All books are currently “In stock”, indicating no supply issues.
+💰 High-priced Books: Titles like “Sapiens” and “Tipping the Velvet” are among the most expensive.
+📉 Low-priced Books: Books like “The Coming Woman” are more affordable.
+
+
+
+📈 2. Trends
+🔹 No direct correlation between price and rating
+→ Some high-priced books have low ratings and vice versa
+🔹 Majority of books fall in mid-price range (~₹20–₹50)
+→ Suggests standard pricing strategy
+🔹 Ratings are skewed towards average (1–4 stars)
+→ Indicates moderate customer satisfaction
+🔹 Popular books (higher ratings) are not necessarily cheapest
+→ Quality perception may vary independent of price
+
+
+
+💡 3. Recommendations
+📊 Focus on high-rated books (4–5 stars)
+→ Promote them more to increase sales
+💸 Re-evaluate pricing strategy
+→ Reduce price for low-rated expensive books
+⭐ Improve low-rated books
+→ Collect feedback or replace poor-performing titles
+🛒 Bundle low-performing books with popular ones
+→ Increase overall sales
+📈 Highlight best-rated books in marketing
+→ Improves customer trust and conversion
