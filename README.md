@@ -104,7 +104,7 @@ This project demonstrates how Python and Generative AI can be combined to extrac
     ```bash
    pip install pandas
     
-3.Run the script
+3. Run the script
     ```bash
     python analysis.py
 
